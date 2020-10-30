@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import src from '*.avif';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <p>Updated By Fayyaz ahmad for my Paco boy</p>
+          <img src="IMG_8743.JPG" alt="Italian Trulli">
         </p>
         <a
           className="App-link"
